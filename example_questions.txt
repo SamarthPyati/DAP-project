@@ -1,4 +1,17 @@
-    <TEMP TEXT>
+Demographic Analysis:
+    What is the distribution of developers' ages in the dataset?
+    How is the distribution of developers' educational levels?
+    What is the distribution of employment types (full-time, part-time, freelance)?
+
+Job and Industry Trends:
+    What are the most common job roles or developer types?
+    How does the distribution of job roles vary across different countries?
+    Are there specific industries or sectors where developers are more prevalent?
+
+Salary and Compensation:
+    What is the overall distribution of annual salaries?
+    How does the annual salary vary based on factors such as job role, experience, or education level?
+    What is the currency distribution of salaries, and how does it vary across countries?
 
 Technology Stack:
     What are the most popular programming languages among developers?
